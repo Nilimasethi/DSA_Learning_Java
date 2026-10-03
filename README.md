@@ -13,9 +13,9 @@ Daily DSA practice — solving problems in Java.
 - [ ] DP
 
 ## 📊 Stats
-- Total problems: 0
-- Easy: 0 | Medium: 0 | Hard: 0
-- Current streak: Day 0 🔥
+- Total problems: 9
+- Easy: 9 | Medium: 0 | Hard: 0
+- Current streak: Day 1 🔥
 
 ## 🗂️ Folder Guide
 | Folder | Purpose |
